@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="res/branding/waterfall_white.svg" height="150px" width="auto" alt="waterfall Logo">
+  <img src="res/branding/waterfall.svg" height="150px" width="auto" alt="waterfall Logo">
   <h1>waterfall</h1>
   <p align="center">The Free Gaming Library.</p>
 </div>
