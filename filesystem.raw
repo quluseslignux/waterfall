@@ -1,0 +1,26 @@
+games
+  game0:game_tag0:game_tag1
+    info_config
+    versions
+      !defaultversion:version_tag0
+        !files
+          lutris_config
+          target
+            ...
+        installer
+          lutris_config
+          target
+            ...
+        torrent
+          lutris_config
+          target
+            ...
+        patches
+          !defaultpatch
+          !patch0:1tag0
+      !version0:version_tag0
+    patches
+      !defaultpatch
+      !patch0:version_tag0
+patches
+  patch:game_tag0
