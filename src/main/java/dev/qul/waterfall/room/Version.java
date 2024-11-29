@@ -6,4 +6,9 @@ public class Version {
     private String name;
     private ArrayList<Patch> patches;
     private ArrayList<Tag> tags;
+    private boolean isDefault;
+
+    public Version(String path) {
+
+    }
 }

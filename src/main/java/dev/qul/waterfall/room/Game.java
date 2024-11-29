@@ -1,8 +1,7 @@
 package dev.qul.waterfall.room;
 
-import java.util.ArrayList;
-
 public class Game {
+
     //Attributes
     private String id;
     private String slug;
@@ -10,9 +9,9 @@ public class Game {
     private String description;
     private String developer;
     private String publisher;
+    private Graphics graphics;
 
     public Game() {
 
     }
-
 }

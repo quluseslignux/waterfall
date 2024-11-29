@@ -8,9 +8,11 @@ public class Tag {
     private boolean isGametag;
 
     private ArrayList<Game> games;
-    private ArrayList<Tag> tags;
+    private ArrayList<Version> versions;
 
-    public Tag() {
+    private static ArrayList<Tag> all_tags;
+
+    public Tag(String path) {
 
     }
 }

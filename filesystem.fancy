@@ -17,12 +17,13 @@
 │       │   │   │   └── target/
 │       │   │   │       └── ...
 │       │   │   └── patches/
-│       │   │       ├── !defaultpatch
-│       │   │       └── !patch0:1tag0
+│       │   │       ├── !defaultpatch0
+│       │   │       ├── !defaultpatch1
+│       │   │       └── patch0
 │       │   └── !version0:version_tag0
 │       └── patches/
-│           ├── !defaultpatch
-│           └── !patch0:version_tag0
+│           ├── !defaultpatch2
+│           └── !patch1:version_tag0
 └── patches/
     └── patch:game_tag0
 
