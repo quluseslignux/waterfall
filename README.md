@@ -36,4 +36,7 @@ But just in case I'll explain it.
 In waterfall's case it means that all organising is done through the restructuring the File Hierarchy.
 
 ## License
-This Software is Licensed under the **GNU General Public License v3.0 or later** License.
+This Software is Licensed under the **GNU Affero General Public License v3.0 or later** License.
+<div align="center">
+  <img src="res/agpl-3.0.svg" height="auto" width="225" alt="waterfall Logo">
+</div>
