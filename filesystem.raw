@@ -1,27 +1,27 @@
 games
-  game0:game_tag0:game_tag1
-    info_config
+  game-slug0:unvisible_game_tag0#visible_game_tag1
+    info
     versions
-      !defaultversion:version_tag0
+      !defaultversion#visible_version_tag0
         !files
-          lutris_config
+          lutris
           target
             ...
         installer
-          lutris_config
+          lutris
           target
             ...
         torrent
-          lutris_config
+          lutris
           target
             ...
         patches
           !defaultpatch0
           !defaultpatch1
           patch0
-      !version0:version_tag0
+      !version0#visible_version_tag0
     patches
       !defaultpatch2
-      !patch1:version_tag0
+      !patch1#visible_version_tag0:invisible_version_tag
 patches
-  patch:game_tag0
+  patch:unvisible_game_tag0

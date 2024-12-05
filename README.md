@@ -38,5 +38,5 @@ In waterfall's case it means that all organising is done through the restructuri
 ## License
 This Software is Licensed under the **GNU Affero General Public License v3.0 or later** License.
 <div align="center">
-  <img src="res/agpl-3.0.svg" height="auto" width="225" alt="waterfall Logo">
+  <img src="res/agpl-3.0.svg" height="auto" width="225" alt="AGPL Logo">
 </div>
